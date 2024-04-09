@@ -1,5 +1,7 @@
 # Dev-Detective
+
 :rocket: [Link to website][https://dev-detective-sleuth.netlify.app/]
+
 This project is a web application that fetches and displays GitHub user profiles using the GitHub API.Users can input a username to retrieve details such as profile picture, bio, repositories, followers, following, location, and more. The application features a dark/light mode toggle, local storage for user preferences, and responsive design for optimal viewing on various devices.
 
 # Purpose
